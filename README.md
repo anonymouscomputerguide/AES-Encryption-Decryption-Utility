@@ -1,2 +1,5 @@
 # AES-Encryption-and-Decryption
-A Python program that ENCRYPTS and DECRYPTS using the Advanced Encryption Standard.
+Python programs that ENCRYPT and DECRYPT using the Advanced Encryption Standard.
+
+Encryption and Decryption code provided by OpenAI's ChatGPT
+Source: https://openai.com/
