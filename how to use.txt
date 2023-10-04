@@ -5,3 +5,5 @@ Install this using cmd:
 "pip install pyperclip"
 
 it will allow you to copy and paste inside the cmd window.
+
+*WINDOWS DEFENDER MAY IDENTIFY THESE PROGRAMS AS MALWARE, however, they are NOT. You can restore them if they become quarantined.* 
