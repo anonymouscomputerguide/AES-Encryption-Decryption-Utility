@@ -1,0 +1,7 @@
+Be sure to have the lastest Python installed!
+
+Install this using cmd:
+
+"pip install pyperclip"
+
+it will allow you to copy and paste inside the cmd window.
